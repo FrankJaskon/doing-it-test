@@ -97,7 +97,7 @@ I implemented a context and hooks to manage the wallet state, allowing easy acce
 
 ### Balance Polling
 
-I used a hook for long polling the wallet balance. The balance updates every 1 second if the user has a public key.
+I used a hook for long polling the wallet balance. The balance updates every 2 seconds if the user has a public key.
 
 ### Route Protection
 
